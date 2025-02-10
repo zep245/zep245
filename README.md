@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **gnanaprasad.jobs@gmail.com**
 
-- 📄 Know about my experiences [https://zep245.github.io/prasad.github.io/build/resume/Gnanaprasad's%20Resume.pdf](https://zep245.github.io/prasad.github.io/build/resume/Gnanaprasad's%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
