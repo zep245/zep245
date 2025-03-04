@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://zep245.github.io/prasad.github.io/](https://zep245.github.io/prasad.github.io/)
 
-- 💬 Ask me about **Python ,SQL , Pandas , Power BI , Excel**
+- 💬 Ask me about **Python ,SQL , Java , Data Structures and Algorithms**
 
 - 📫 How to reach me **gnanaprasad.jobs@gmail.com**
 
